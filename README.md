@@ -37,7 +37,7 @@ Follow these environment configurations to execute the platform on a local archi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/meavnijain/diabetes-risk-predictor
+   git clone https://github.com/meavnijain/diabetes-risk-predictor.git
    cd diabetes-risk-predictor
    ```
 
